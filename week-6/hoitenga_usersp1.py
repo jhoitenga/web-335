@@ -1,7 +1,10 @@
 """ Title: hoitenga_usersp1.py
     Author: Jennifer Hoitenga
-    Date: 04/23/2023
+    Date: June 28, 2023
     Description: Exercise 6.3 Python with MongoDB
+    Sources Used:
+    Learn Python in One Hour by Programming with Mosh YouTube
+    WEB 335 Python Guide
 """
 
 """ Import the MongoClient """
